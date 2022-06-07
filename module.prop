@@ -1,0 +1,5 @@
+id=senforcer
+name=SELinuxEnforcer
+version=v0.3
+author=kneesox
+description=Switch SELinux to enforced mode.
